@@ -20,13 +20,22 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 9. The variables in run_analysis.R are described below:
 
 *trainData*: Contains training observation data
+
 *trainLabel*:Contains Activity Labels from the training data set
+
 *trainSubject* : Contains Subject data from the training data set
+
 *testData* : Contains test observation data
+
 *testLabel* :Contains Activity Labels from the test data set 
+
 *testSubject*: Contains Subject data from the test data set
+
 *mergedData* : join of *trainData* and *testData*
+
 *mergedLabel* : join of *trainLabel* and *testLabel*
+
 *mergedSubject*: join of *trainSubject* and *testSubject*
+
 *tidyData* : contains only mean and standard deviation columns of the merged data and descriptive variable names.
 
